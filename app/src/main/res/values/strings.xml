@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Фитнес менеджер</string>
+    <string name="content_description">Image Content</string>
+    <string name="fitness_tracker_title">Fitness Tracker</string>
+    <string name="fitness_tracker_placeholdername">НОГИ</string>
+    <string name="fitness_tracker_rapid_activity">Быстрая деятельность</string>
+    <string name="fitness_training">Тренировка</string>
+    <string name="fitness_saved_workouts">Просмотреть сохраненные упражнения</string>
+    <string name="fitness_exercise_hint">Упражнение</string>
+    <string name="fitness_meal_preset">Черновик:</string>
+    <string name="fitness_meal_coming">В ближайшее время:</string>
+    <string name="fitness_meal_history">Выполнено:</string>
+    <string name="fitness_meal_delete">Удалить</string>
+    <string name="fitness_meal_save_edit">Сохранить изменения</string>
+    <string name="fitness_meal_procede">Сохранить</string>
+    <string name="meal_placeholderfood">Паста из тунца</string>
+    <string name="meal_fit_addpreset">ДОБАВИТЬ В ЧЕРНОВИК</string>
+    <string name="meal_fit_schedule">В БЛИЖАЙШЕЕ ВРЕМЯ</string>
+    <string name="menu">Ваши тренировки</string>
+</resources>

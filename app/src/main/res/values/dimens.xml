@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">22sp</dimen>
+    <dimen name="iconNearTitle">22dp</dimen>
+    <dimen name="marginStandard">15dp</dimen>
+    <dimen name="marginDoubled">28dp</dimen>
+    <dimen name="marginSmall">7dp</dimen>
+    <dimen name="radius">10dp</dimen>
+    <dimen name="mealName">20dp</dimen>
+    <dimen name="mealLabel">24sp</dimen>
+    <dimen name="mealDate">14dp</dimen>
+    <dimen name="label">14sp</dimen>
+    <dimen name="buttonText">16sp</dimen>
+    <dimen name="notTitleText">16sp</dimen>
+    <dimen name="exerciseData">12dp</dimen>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fitnessTrackerFragment">
+    <fragment
+        android:id="@+id/fitnessTrackerFragment"
+        android:name="com.comfortablesporttools.yourfitnesstracker.ui.FitnessTrackerFragment"
+        android:label="FitnessTrackerFragment" />
+    <fragment
+        android:id="@+id/addWorkoutFragment"
+        android:name="com.comfortablesporttools.yourfitnesstracker.ui.AddWorkoutFragment"
+        android:label="AddWorkoutFragment" />
+    <fragment
+        android:id="@+id/editWorkoutFragment"
+        android:name="com.comfortablesporttools.yourfitnesstracker.ui.EditWorkoutFragment"
+        android:label="EditWorkoutFragment" />
+</navigation>
